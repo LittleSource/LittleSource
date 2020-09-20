@@ -1,8 +1,9 @@
-### :ymkj8.com，小源🌱
+### LittleSource，ymkj8.com🌱
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=i5ting&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LittleSource&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
 
-⚡你好~ 我是 小源，现居天津。
+⚡你好~ 我是小源，现居天津。专注于PHP、GO、微服务的灵魂Developer
+
 
 
 📫如果你想聊聊技术，可以给我[发邮件](888@ymkj8.com)。
