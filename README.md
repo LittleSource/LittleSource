@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LittleSource&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
 
-⚡你好~ 我是小源，现居天津。专注于PHP、GO、微服务的灵魂Developer
+⚡你好~ 我是小源，现居北京。专注于PHP、Golang、微服务的灵魂Developer
 
 
 
