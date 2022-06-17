@@ -2,7 +2,7 @@
 
 ### LittleSource，52ym.vip🌱
 
-⚡你好~ 我是小源，现居北京。专注于PHP、Golang、微服务的灵魂Developer
+⚡你好~ 我是小源，现居北京。专注于Web前端、Golang、微服务的灵魂Developer
 
 📫如果你想聊聊技术，可以给我[发邮件](888@ymkj8.com)。
 
